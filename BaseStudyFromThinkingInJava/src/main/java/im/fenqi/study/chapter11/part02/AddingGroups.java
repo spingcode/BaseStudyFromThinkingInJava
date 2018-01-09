@@ -3,7 +3,7 @@ package im.fenqi.study.chapter11.part02;
 import java.util.*;
 
 /*
-* 添加一组元素:
+* 11.3、添加一组元素:
 * */
 public class AddingGroups {
     public static void main(String[] args) {

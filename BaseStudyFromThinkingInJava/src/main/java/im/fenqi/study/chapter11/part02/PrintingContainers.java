@@ -4,7 +4,7 @@ import java.util.*;
 
 import static im.fenqi.study.util.PrintUtil.*;
 /*
-* 把容器里面的值打印到控制台
+* 11.4、把容器里面的值打印到控制台
 * */
 public class PrintingContainers {
     static Collection fill(Collection<String> collection)

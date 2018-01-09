@@ -2,7 +2,7 @@ package im.fenqi.study.chapter11.part01;
 
 import java.util.ArrayList;
 /*
-* 泛型保证容器的安全运行：一个容器里面只放一种类型
+* 11.1、泛型保证容器的安全运行：一个容器里面只放一种类型
 *   在（1）处的容器不使用泛型时默认是Object类型，在运行的时候报错
 *   在（2）处使用泛型保证错误在编译的时候发现
 *

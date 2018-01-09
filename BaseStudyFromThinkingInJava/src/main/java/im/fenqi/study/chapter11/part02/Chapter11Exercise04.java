@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-* 练习四
+* 11.4、练习四
 * */
 public class Chapter11Exercise04 {
     static  List<String> list = fill(new ArrayList<String>());

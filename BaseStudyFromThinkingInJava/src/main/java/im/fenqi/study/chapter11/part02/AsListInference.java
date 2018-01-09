@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /*
-* Arrays.asList的使用
+* 11.2、Arrays.asList的使用
 * */
 class Snow{}
 class Powder extends Snow{}
