@@ -38,6 +38,7 @@ public class ClassInitialization {
         //引起初始化，调用静态域
         System.out.println(Initable2.staticNoFinal);
 
+        
         //引发初始化
         Class initable3 = Class.forName("im.fenqi.study.chapter14.part01.Initable3");
         //静态域只初始化一次
