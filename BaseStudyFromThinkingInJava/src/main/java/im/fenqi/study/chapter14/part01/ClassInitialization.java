@@ -4,6 +4,7 @@ import java.util.Random;
 
 /*
 * 14.2.1、类字面常量，什么情况下会触发初始化（对静态域的初始化）
+* 基本类型的Class：14.2.1
 *
 * */
 class Initable{
